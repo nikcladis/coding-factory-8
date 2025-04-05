@@ -1,1 +1,1 @@
-# coding-factory-8
+# coding-factory-8 courses
